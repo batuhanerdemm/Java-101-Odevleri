@@ -19,10 +19,7 @@ public class HelloApplication extends Application {
     }
 
     public static void main(String[] args) {
-             // Değişkenleri olustur
-                int mat,fizik,tarih,türkçe,müzik;
-                //scanner sınıfımız tanımladık
-                Scanner inp= new Scanner(System.in);
+             
 
                 //Kullanıcıdan değer al
         System.out.println("Tutar Giriniz:");
